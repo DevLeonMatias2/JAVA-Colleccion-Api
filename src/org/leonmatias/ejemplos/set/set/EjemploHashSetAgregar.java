@@ -1,4 +1,4 @@
-package org.leonmatias.ejemplos.set;
+package org.leonmatias.ejemplos.set.set;
 
 import com.sun.source.doctree.StartElementTree;
 
